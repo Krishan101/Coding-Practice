@@ -1,3 +1,3 @@
 # Coding Practice
 
-`Day1`
+`Day 1: ` Done some basic code and pattern using if-else, forloop, while loop
