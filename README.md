@@ -4,3 +4,4 @@
 
 ``Day 2:`` Started Functions and applied it on pattern and various problems.
 
+``Day 3:`` Practiced questions on Functions and studied about Time Complexity.
