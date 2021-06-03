@@ -1,3 +1,3 @@
 # Coding Practice
----
-'Day1'
+
+`Day1`
